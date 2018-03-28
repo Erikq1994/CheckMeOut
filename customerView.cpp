@@ -1,6 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include "customerView.h"
+#include "ObserverPattern/ObserverPattern.cpp"
 
 void customerView::refresh(order running)
 {
